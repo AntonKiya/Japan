@@ -530,6 +530,9 @@ body{
   .wrapper {
     width: 530px;
   }
+  .header{
+    padding-top: 26px;
+  }
   .header__burger{
     display: block;
   }
